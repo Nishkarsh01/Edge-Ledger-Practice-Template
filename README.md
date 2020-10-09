@@ -7,7 +7,7 @@ This is a free Website template and is perfect for practicing your Html and css 
 You can clone this repos using 
 
 ```
-Git Clone 
+Git Clone https://github.com/Nishkarsh01/Edge-Ledger-Practice-Template.git
 ```
 
 ## Live Demo
