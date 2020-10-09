@@ -14,6 +14,8 @@ Git Clone https://github.com/Nishkarsh01/Edge-Ledger-Practice-Template.git
 
 Click on the below link in order to checkout the website 
 
+https://nishkarsh01.github.io/Edge-Ledger-Practice-Template/
+
 
 ### Coding Languages or Styles
 
