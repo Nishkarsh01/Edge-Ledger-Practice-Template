@@ -1,5 +1,5 @@
 # EdgeLedger Website Template
-This is a free Website template and is perfect for practicing your Html and css skil
+This is a free Website template and is perfect for practicing your Html and Css skills
 
 
 ## Clone This Repository
