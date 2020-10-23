@@ -22,7 +22,7 @@ https://nishkarsh01.github.io/Edge-Ledger-Practice-Template/
 This Practice Website was built using only:
 
 ```
-HTML, CSS, snipit of JavaScript
+HTML, CSS, snippet of JavaScript
 ```
 
 
