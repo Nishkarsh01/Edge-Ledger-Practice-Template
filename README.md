@@ -32,6 +32,9 @@ After extracting the files,
 
     cd Edge-Ledger-Practice-Template
     and, simply open the index.html file
+    
+## Collaborate
+To collaborate, reach me on [nishdubb11@gmail.com]() 
 
 
 
