@@ -6,6 +6,7 @@ This is a free Website template and is perfect for practicing your Html and Css 
 
 ## Screenshots 📷
 ![Website Screenshot](screenshots/1.jpg)
+![Website Screenshot](screenshots/2.jpg)
 
 ## Live Demo 
 
