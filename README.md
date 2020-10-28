@@ -19,6 +19,23 @@ This is a free Website template and is perfect for practicing your Html and Css 
 + [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
 
+## Installation or Getting Started
+
+Run the following command in the terminal:
+
+	git clone https://github.com/Nishkarsh01/Edge-Ledger-Practice-Template.git
+or download the zip file from github.
+    
+
+## Usage
+After extracting the files,
+
+    cd My-Portfolio-Website
+    and, simply open the index.html file
+
+
+
+
 
 
 
