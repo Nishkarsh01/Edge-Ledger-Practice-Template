@@ -30,7 +30,7 @@ or download the zip file from github.
 ## Usage
 After extracting the files,
 
-    cd My-Portfolio-Website
+    cd Edge-Ledger-Practice-Template
     and, simply open the index.html file
 
 
