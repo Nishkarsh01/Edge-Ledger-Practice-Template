@@ -2,7 +2,7 @@
 This is a free Website template and is perfect for practicing your Html and Css skills
 
 ## Author 
-> Nishkarsh01
+> Nishkarsh Dubb
 
 ## Screenshots 📷
 ![Website Screenshot](screenshots/1.jpg)
